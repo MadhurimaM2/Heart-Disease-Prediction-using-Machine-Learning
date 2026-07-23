@@ -1,2 +1,3 @@
 # DS601-Group-project
-A group project in an MS Data Science Course
+Heart Disease Prediction using Machine Learning
+A group project - MS Data Science Course (Introduction to Data Science)
